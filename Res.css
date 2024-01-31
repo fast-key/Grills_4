@@ -1,0 +1,1400 @@
+@media(max-width:1650px){
+  .heroBtn {
+    position: absolute;
+    margin-top: -428px;
+    margin-left: 670px;
+    animation-name: test1;
+    animation-duration: 8s;
+}
+.sectionFont1{
+  font-size: 3.8rem;
+}
+.aboutUsFont {
+  font-size: 3.8rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsSubFont {
+  font-size: 3.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontSub {
+  font-size: 3.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 3.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFontSub {
+  font-size: 3.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.label {
+  font-size: 5rem;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 2rem;
+}
+.modal {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -1156px;
+  margin-left: 500px;
+  border-radius: 5px;
+  display: none;
+}
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -979px;
+  margin-left: 377px;
+  border-radius: 5px;
+  display: block;
+}
+}
+
+@media(max-width:1531px){
+  .navBtn {
+    border-radius: 5px;
+    background-color: #9c6644;
+    padding: 2px;
+    border: black solid;
+    font-family: "Open Sans", sans-serif;
+    font-size: 3rem;
+    text-decoration: none;
+    color: white;
+}
+.heroFont1 {
+  font-size: 10rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -441px;
+  margin-left: 525px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+
+.sectionFont1{
+  font-size: 3rem;
+}
+.aboutUsFont {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsSubFont {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontSub {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFontSub {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont1 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsItem {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.label {
+  font-size: 4.5rem;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 2rem;
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 117vh;
+}
+.testing {
+  position: absolute;
+  width: 100%;
+  height: 119vh;
+}
+.newsTitle {
+  font-size: 5rem;
+  font-family: "Open Sans", sans-serif;
+}
+.modal {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -1156px;
+  margin-left: 500px;
+  border-radius: 5px;
+  display: none;
+}
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -900px;
+  margin-left: 322px;
+  border-radius: 5px;
+  display: block;
+}
+
+
+
+
+}
+
+@media(max-width:1276px){
+  .navBtn {
+    border-radius: 5px;
+    background-color: #9c6644;
+    padding: 2px;
+    border: black solid;
+    font-family: "Open Sans", sans-serif;
+    font-size: 2.5rem;
+    text-decoration: none;
+    color: white;
+}
+.heroMainFont {
+  position: absolute;
+  margin-top: -480px;
+  animation-name: test;
+  animation-duration: 8s;
+}
+.heroFont1 {
+  font-size: 9rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -298px;
+  margin-left: 447px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+.orderBtn {
+  border-radius: 8px;
+  border: #9c6644 solid;
+  background-color: #9c6644;
+  padding: 4px;
+  font-size: 5rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  /* display: none; */
+}
+.orderBtnHide {
+  border-radius: 8px;
+  border: #9c6644 solid;
+  background-color: #9c6644;
+  padding: 4px;
+  font-size: 8rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+  text-decoration: none;
+  display: none;
+}
+.orderLogo {
+  height: 47px;
+  width: 81px;
+}
+
+.sectionFont1{
+  font-size: 2.8rem;
+}
+.aboutUsFont {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsSubFont {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontSub {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFontSub {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont1 {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsItem {
+  font-size: 2.8rem;
+  font-family: "Open Sans", sans-serif;
+}
+.label {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 2rem;
+}
+.input {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+  border: 1px solid black;
+}
+.inputEmail {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+  border: 1px solid black;
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 123vh
+}
+.testing {
+  position: absolute;
+  width: 100%;
+  height: 124vh;
+}
+.newsTitle {
+  font-size: 5rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Title */
+.aboutUsFont1 {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsTitle {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontTitle {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.TitleOrder {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubTitle {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFont {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+}
+.modal {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -1156px;
+  margin-left: 500px;
+  border-radius: 5px;
+  display: none;
+}
+
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 646px;
+  width: 646px;
+  margin-top: -763px;
+  margin-left: 266px;
+  border-radius: 5px;
+  display: block;
+}
+.modalClose {
+  width: 50px;
+  height: 50px;
+}
+.modalPhoto1 {
+  width: 401px;
+  height: 350px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto2 {
+  width: 401px;
+  height: 350px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 401px;
+  height: 350px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+
+
+
+}
+
+@media(max-width:1148px){
+  .heroFont1 {
+    font-size: 7rem;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    text-shadow: 4px 3px 0 #7a7a7a;
+    color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -307px;
+  margin-left: 434px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+
+.MenuFontTitle {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.sectionFont {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.sectionFont1 {
+font-size: 2.2rem;
+}
+.aboutUsFont1 {
+font-size: 3.5rem;
+font-family: "Open Sans", sans-serif;
+padding: 2rem;
+position: relative;
+}
+.aboutUsFont {
+font-size: 2.2rem;
+font-family: "Open Sans", sans-serif;
+padding: 2rem;
+position: relative;
+}
+.aboutUsTitle {
+font-size: 3.5rem;
+font-family: "Open Sans", sans-serif;
+}
+.aboutUsSubFont {
+font-size: 2.2rem;
+font-family: "Open Sans", sans-serif;
+}
+.newsTitle {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont1 {
+  font-size: 2.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsItem {
+  font-size: 2.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsPhoto {
+  width: 100%;
+  position: relative;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.testing {
+  position: absolute;
+  width: 100%;
+  height: 85vh;
+}
+.newsFont {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFontSub {
+  font-size: 2.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubTitle {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 2.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.modal {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -1156px;
+  margin-left: 500px;
+  border-radius: 5px;
+  display: none;
+}
+
+
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 563px;
+  width: 502px;
+  margin-top: -665px;
+  margin-left: 269px;
+  border-radius: 5px;
+  display: block;
+}
+.modalClose {
+  width: 56px;
+  height: 50px;
+}
+.modalPhoto1 {
+  width: 453px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.modalPhoto2 {
+  width: 453px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 453px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont1 {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  /* display: none; */
+}
+.modalFont2 {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  display: none;
+}
+.modalFont3 {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  display: none;
+}
+.modalInsidebtn1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightBtn1 {
+  width: 70px;
+  height: 90px;
+}
+.leftBtn1 {
+  width: 70px;
+  height: 90px;
+}
+.addToCart1 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #9c6644;
+  border: black solid;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+
+
+}
+
+
+
+@media (max-width: 999px) {
+  .mainNav {
+    display: flex;
+    justify-content: space-between;
+   
+   
+  }
+.navBtn {
+    border-radius: 5px;
+    background-color: #9c6644;
+    padding: 2px;
+    border: black solid;
+    font-family: "Open Sans", sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+
+}
+
+  .menuIcon {
+    display: block;
+    width: 40px;
+    height: 40px;
+  }
+  .closeIcon {
+    display: none;
+    width: 40px;
+    height: 40px;
+}
+  .itemOrder {
+    display: flex;
+
+    gap: 1rem;
+    opacity: 0;
+  }
+  /* .desktopNav {
+    display: none;
+  } */
+  /* .itemOrder {
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transition: 4s;
+  } */
+  .itemOrderC {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   gap: 6rem;
+    transform: translateY(-10%);
+    opacity: 1;
+    transition: 8s;
+    height: 100vh;
+  }
+  .show {
+    display: block;
+  }
+  .hide {
+    display: none;
+  }
+
+  .heroMainFont {
+    position: absolute;
+    margin-top: -410px;
+    animation-name: test;
+    animation-duration: 8s;
+}
+.heroFont1 {
+  font-size: 6rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroFont2 {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -230px;
+  margin-left: 363px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+
+.orderBtn {
+  border-radius: 8px;
+  border: #9c6644 solid;
+  background-color: #9c6644;
+  padding: 4px;
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  /* display: none; */
+}
+.orderBtnHide {
+  border-radius: 8px;
+  border: #9c6644 solid;
+  background-color: #9c6644;
+  padding: 4px;
+  font-size: 8rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+  text-decoration: none;
+  display: none;
+}
+  
+.orderLogo {
+  height: 37px;
+  width: 37px;
+}
+.modal {
+  /* display: flex; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  /* justify-items: center; */
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 899px;
+  width: 800px;
+  margin-top: -1156px;
+  margin-left: 500px;
+  border-radius: 5px;
+  display: none;
+}
+
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 519px;
+  width: 420px;
+  margin-top: -605px;
+  margin-left: 266px;
+  border-radius: 5px;
+  display: block;
+}
+
+.modalClose {
+  width: 46px;
+  height: 80px;
+}
+.modalPhoto1 {
+  width: 410px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  /* display: none; */
+}
+.modalPhoto2 {
+  width: 410px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont2 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  display: none;
+}
+.modalPhoto3 {
+  width: 410px;
+  /* height: 653px; */
+  height: 291px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont3 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  display: none;
+}
+/* .modalFont1 {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  display: none;
+} */
+
+.aboutUsChef {
+  width: 100%;
+  position: relative;
+  border-radius: 518px;
+  box-shadow: 10px 8px 5px -3px rgba(0,0,0,0.6);
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 73vh;
+}
+.testing {
+  position: absolute;
+  width: 100%;
+  height: 74vh;
+}
+
+}
+
+
+@media(max-width:850px){
+  .modalShow {
+    display: flex;
+    padding: 4rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 424px;
+    width: 420px;
+    margin-top: -513px;
+    margin-left: 195px;
+    border-radius: 5px;
+    display: block;
+}
+.modalClose {
+  width: 31px;
+  height: 37px;
+}
+.modalPhoto1 {
+  width: 380px;
+  /* height: 653px; */
+  height: 235px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto2 {
+  width: 380px;
+  /* height: 653px; */
+  height: 235px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 380px;
+  /* height: 653px; */
+  height: 235px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+section {
+  display: grid;
+  grid-template-columns: 1fr 
+  ;
+  justify-content: center;
+  align-content: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+.sectionFont {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.sectionFont1 {
+  font-size: 3rem;
+}
+.aboutUsCon {
+  display: grid;
+  grid-template-columns: 1fr ;
+  margin-bottom: 4rem;
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 131vh;
+}
+.aboutUsFont1 {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  /* padding: 2rem; */
+  position: relative;
+}
+.aboutUsFont {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsCon1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  margin-bottom: 6rem;
+}
+.aboutUsTitle {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+}
+.aboutUsSubFont {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontSub {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontTitle {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+}
+.testing {
+  position: absolute;
+  width: 100%;
+  height: 63vh;
+}
+}
+
+@media(max-width:765px){
+  .heroFont1 {
+    font-size: 5rem;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    text-shadow: 4px 3px 0 #7a7a7a;
+    color: #ffffff;
+}
+.heroFont2 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroMainFont {
+  position: absolute;
+  margin-top: -290px;
+  animation-name: test;
+  animation-duration: 8s;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -170px;
+  margin-left: 293px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+.modalShow {
+  display: flex;
+  padding: 4rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 373px;
+  width: 322px;
+  margin-top: -472px;
+  margin-left: 192px;
+  border-radius: 5px;
+  display: block;
+}
+.modalPhoto1 {
+  width: 310px;
+  /* height: 653px; */
+  height: 200px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont1 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  /* display: none; */
+}
+.modalPhoto2 {
+  width: 310px;
+  /* height: 653px; */
+  height: 200px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont2 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  /* display: none; */
+}
+.modalPhoto3 {
+  width: 310px;
+  /* height: 653px; */
+  height: 200px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalFont3 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  /* display: none; */
+}
+.sectionPhoto {
+height: 50vh;
+  width: 100%;
+  border-radius: 5px;
+}
+.aboutUsChef {
+  width: 100%;
+  height: 50vh;
+  position: relative;
+  border-radius: 518px;
+  box-shadow: 10px 8px 5px -3px rgba(0,0,0,0.6);
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 86vh;
+}
+.aboutUsCon1 {
+  display: grid;
+  grid-template-columns: 1fr ;
+  gap: 3rem;
+  margin-bottom: 6rem;
+}
+.MenuMainBox {
+  display: grid;
+  grid-template-columns: 1fr ;
+  margin-bottom: 6rem;
+}
+.MenuMainSubBox {
+  display: grid;
+  grid-template-columns: 1fr ;
+  gap: 2rem;
+}
+.MenuOrder {
+  width: 100%;
+  height: 50vh;
+  border-radius: 5px;
+}
+.newsTitle {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont1 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsItem {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newSubContent1 {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 6rem;
+}
+.newsSubTitle {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsPhoto {
+  width: 100%;
+  height: 50vh;
+  position: relative;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.newsContent {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.newsContentPhoto {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 50vh;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+.newsFontSub {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+.footer {
+  display: grid;
+  grid-template-columns: 1fr ;
+}
+.submitBtn {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  background-color: #9c6644;
+  color: #ffffff;
+  border-radius: 5px;
+}
+}
+
+@media(max-width:660px){
+
+  .modalShow {
+    display: flex;
+    padding: 3rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 315px;
+    width: 322px;
+    margin-top: -412px;
+    margin-left: 150px;
+    border-radius: 5px;
+    display: block;
+}
+.modalPhoto1 {
+  width: 290px;
+  /* height: 653px; */
+  height: 240px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto2 {
+  width: 290px;
+  /* height: 653px; */
+  height: 240px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 290px;
+  /* height: 653px; */
+  height: 240px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalInsidebtn1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.heroFont1 {
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroFont2 {
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -170px;
+  margin-left: 240px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+
+
+}
+
+
+@media(max-width:565px){
+  .modalShow {
+    display: flex;
+    padding: 3rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 315px;
+    width: 322px;
+    margin-top: -363px;
+    margin-left: 112px;
+    border-radius: 5px;
+    display: block;
+}
+.modalPhoto1 {
+  width: 290px;
+  /* height: 653px; */
+  height: 193px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto2 {
+  width: 290px;
+  /* height: 653px; */
+  height: 193px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 290px;
+  /* height: 653px; */
+  height: 193px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.heroFont1 {
+  font-size: 3.5rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroFont2 {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -131px;
+  margin-left: 188px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+.heroMainFont {
+  position: absolute;
+  margin-top: -220px;
+  animation-name: test;
+  animation-duration: 8s;
+}
+.sectionPhoto {
+  height: 50vh;
+  width: 100%;
+  border-radius: 5px;
+}
+.sectionFont1 {
+  font-size: 2rem;
+}
+.aboutUsWave {
+  position: absolute;
+  width: 100%;
+  height: 90vh;
+}
+.aboutUsFont {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+  padding: 2rem;
+  position: relative;
+}
+.aboutUsSubFont {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.MenuFontSub {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont1 {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsItem {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsSubFont2 {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+.newsFontSub {
+  font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+}
+
+@media(max-width:485px){
+  .modalShow {
+    display: flex;
+    padding: 3rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 315px;
+    width: 322px;
+    margin-top: -319px;
+    margin-left: 64px;
+    border-radius: 5px;
+    display: block;
+}
+.modalPhoto1 {
+  width: 290px;
+  /* height: 653px; */
+  height: 169px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto2 {
+  width: 290px;
+  /* height: 653px; */
+  height: 169px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.modalPhoto3 {
+  width: 290px;
+  /* height: 653px; */
+  height: 169px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+}
+
+@media(max-width:446px){
+  .heroFont1 {
+    font-size: 3rem;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    text-shadow: 4px 3px 0 #7a7a7a;
+    color: #ffffff;
+}
+.heroFont2 {
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  text-shadow: 4px 3px 0 #7a7a7a;
+  color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -131px;
+  margin-left: 137px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+.heroMainFont {
+  position: absolute;
+  margin-top: -195px;
+  animation-name: test;
+  animation-duration: 8s;
+}
+.modalShow {
+  display: flex;
+  padding: 3rem;
+  position: absolute;
+  background-color: #CBB379;
+  height: 315px;
+  width: 322px;
+  margin-top: -319px;
+  margin-left: 37px;
+  border-radius: 5px;
+  display: block;
+}
+}
+
+@media(max-width:398px){
+  .modalShow {
+    display: flex;
+    padding: 3rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 315px;
+    width: 322px;
+    margin-top: -266px;
+    margin-left: 10px;
+    border-radius: 5px;
+    display: block;
+}
+}
+
+@media(max-width:382px){
+  .modalShow {
+    display: flex;
+    padding: 3rem;
+    position: absolute;
+    background-color: #CBB379;
+    height: 315px;
+    width: 322px;
+    margin-top: -258px;
+    margin-left: -1px;
+    border-radius: 5px;
+    display: block;
+}
+  .heroMainFont {
+    position: absolute;
+    margin-top: -155px;
+    animation-name: test;
+    animation-duration: 8s;
+}
+  .heroFont1 {
+    font-size: 2rem;
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    text-shadow: 4px 3px 0 #7a7a7a;
+    color: #ffffff;
+}
+.heroBtn {
+  position: absolute;
+  margin-top: -90px;
+  margin-left: 109px;
+  animation-name: test1;
+  animation-duration: 8s;
+}
+}
